@@ -1,6 +1,6 @@
 # Splines
 
-Algorithm for finding the minimal distance between two parametric cubic splines and their intersection point, if it exists
+Algorithm for finding the minimal distance between two parametric cubic splines and their intersection point if it exists
 
 ## Description
 1. Parametrically constructs two cubic splines with defect 1 at the given points. 
